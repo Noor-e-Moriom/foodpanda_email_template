@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+img{max-width: 100%;}
+.container{
+    width: 500px;
+    margin: auto;
+    padding: 100px 0;
+}
+.container img{
+   
+}
+.panda-btn{
+  }
+.panda-btn h3{
+    border: 4px solid #D70F64;
+    padding: 10px 20px;
+    width: 150px;
+    text-align: center;
+    margin: auto;
+    font-weight: bold;
+    transition: 0.3s;
+
+}
+.panda-btn h3:hover{
+    background-color:#D70F64;
+    color: #fff;
+
+}
+.panda-logo{
+    position: relative;
+}
+.link-image{
+
+    display: flex;
+    width: 50%;
+    position: absolute;
+    bottom: 40px;
+    left: 230px;
+  
+}
+.apple-logo{
+    margin-right: 10px;
+}
+.play-logo{
+
+}
+footer{
+    background-color: #F0EFF0;
+    margin-top: 0;
+    padding:30px ;
+}
+.fa-logo{
+ width: 25%;
+ margin: auto;
+ text-align: center;
+ border-bottom: 2px solid #fff;
+
+}
+
+i{
+    font-size: 25px;
+    color:#D70F64 ;
+    margin-right: 10px;
+    padding: 10px 0;
+    padding-bottom:25px ;
+    
+  
+}
+.footer-menu{
+    padding: 20px 0;
+    color: #888888;
+    display: flex;
+    
+
+}
+.footer-part{
+    font-size: 15px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+ 
